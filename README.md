@@ -41,9 +41,6 @@ This dashboard provides a clear snapshot of Olist's thriving e-commerce platform
 - **Daily Revenue**
   "The line chart for daily revenue shows fluctuations with significant spikes, highlighting key sales events or promotions. For example, a notable peak at $178K is visible, showcasing an exceptional sales day, likely corresponding to the Black Friday sales event."
 
-  
-![Sales Dashboard](Power BI/Sales Dashboard.jpg)
-
 ## Logistics Dashboard
 
 This logistics overview highlights our platform's extensive reach, efficient order processing, customer-centric payment options, and exceptional delivery performance. These insights enable us to continuously refine our logistics strategies and maintain a high level of service quality.
@@ -54,8 +51,6 @@ This logistics overview highlights our platform's extensive reach, efficient ord
 - **Total Orders by On-time Delivery**
   "Punctuality is a key performance indicator for our logistics team. We are proud to report that 92.11% of orders were delivered on time, with only 7.89% arriving late. This high rate of on-time delivery underlines our commitment to reliability and customer satisfaction."
 
-
-![Logistics Dashboard](Power BI/Logistics Dashboard.jpg)
 
 
 ## Customer Satisfaction
@@ -69,7 +64,6 @@ The data from our dashboard reveals a clear correlation between high customer ra
 
 
 
-![Customer Satisfaction ](Power BI/Customer Satisfaction.jpg)
 
 
 # Forecasting
